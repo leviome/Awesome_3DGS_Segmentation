@@ -11,6 +11,7 @@
 
 * **Segment Any 3D Gaussians** <br>
 `AAAI 2025` | [`Paper`](https://arxiv.org/abs/2312.00860) | [`Project`](https://github.com/Jumpat/SegAnyGAussians)
+---
 
 ### 🟩 4D
 * **4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models** <br>
