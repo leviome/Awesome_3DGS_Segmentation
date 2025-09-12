@@ -3,6 +3,9 @@
 
 ## 📖 Papers
 ### 🟦 3D
+* **FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally** <br>
+`CVPR 2024` | [`Paper`](https://arxiv.org/abs/2409.08270) | [`Project`](https://github.com/florinshen/FlashSplat)
+
 * **⭐LangSplat: 3D Language Gaussian Splatting** <br>
 `CVPR 2024` | [`Paper`](https://arxiv.org/abs/2312.16084) | [`Project`](https://langsplat.github.io/)
 
@@ -11,6 +14,9 @@
 
 * **Segment Any 3D Gaussians** <br>
 `AAAI 2025` | [`Paper`](https://arxiv.org/abs/2312.00860) | [`Project`](https://github.com/Jumpat/SegAnyGAussians)
+
+* **Click-Gaussian: Interactive Segmentation to Any 3D Gaussians** <br>
+`ECCV 2024` | [`Paper`](https://arxiv.org/abs/2407.11793) | [`Project`](https://seokhunchoi.github.io/Click-Gaussian)
 ---
 
 ### 🟩 4D
