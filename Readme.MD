@@ -1,1 +1,1 @@
-# Awesome 3DGS Segmentation
+# 📚 Awesome 3DGS Segmentation
