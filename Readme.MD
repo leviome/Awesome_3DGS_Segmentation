@@ -21,6 +21,9 @@
 * **Segment Any 3D Gaussians** <br>
 `AAAI 2025` | [`Paper`](https://arxiv.org/abs/2312.00860) | [`Project`](https://github.com/Jumpat/SegAnyGAussians)
 
+* **SAGD: Boundary-Enhanced Segment Anything in 3D Gaussian via Gaussian Decomposition** <br>
+`Arxiv 2024` | [`Paper`](https://arxiv.org/abs/2401.17857) | [`Project`](https://github.com/XuHu0529/SAGS)
+
 * **Click-Gaussian: Interactive Segmentation to Any 3D Gaussians** <br>
 `ECCV 2024` | [`Paper`](https://arxiv.org/abs/2407.11793) | [`Project`](https://seokhunchoi.github.io/Click-Gaussian)
 ---
