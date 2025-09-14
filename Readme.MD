@@ -18,6 +18,9 @@
 * **⭐LangSplat: 3D Language Gaussian Splatting** <br>
 `CVPR 2024` | [`Paper`](https://arxiv.org/abs/2312.16084) | [`Project`](https://langsplat.github.io/)
 
+* **LEGaussians: Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding** <br>
+`CVPR 2024` | [`Paper`](https://arxiv.org/abs/2311.18482) | [`Project`](https://buaavrcg.github.io/LEGaussians/)
+
 * **Gaussian Grouping: Segment and Edit Anything in 3D Scenes** <br>
 `ECCV 2024` | [`Paper`](https://arxiv.org/abs/2312.00732) | [`Project`](https://github.com/lkeab/gaussian-grouping)
 
