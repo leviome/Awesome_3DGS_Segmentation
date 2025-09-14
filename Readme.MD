@@ -24,6 +24,9 @@
 * **LEGaussians: Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding** <br>
 `CVPR 2024` | [`Paper`](https://arxiv.org/abs/2311.18482) | [`Project`](https://buaavrcg.github.io/LEGaussians/)
 
+* **GAGA: Group Any Gaussians via 3D-aware Memory Bank** <br>
+`Arxiv 2024` | [`Paper`](https://arxiv.org/abs/2404.07977) | [`Project`](https://www.gaga.gallery/)
+
 * **Gaussian Grouping: Segment and Edit Anything in 3D Scenes** <br>
 `ECCV 2024` | [`Paper`](https://arxiv.org/abs/2312.00732) | [`Project`](https://github.com/lkeab/gaussian-grouping)
 
