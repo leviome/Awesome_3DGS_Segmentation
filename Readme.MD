@@ -12,6 +12,9 @@
 * **FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally** <br>
 `CVPR 2024` | [`Paper`](https://arxiv.org/abs/2409.08270) | [`Project`](https://github.com/florinshen/FlashSplat)
 
+* **OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding** <br>
+`NIPS 2024` | [`Paper`](https://arxiv.org/abs/2406.02058) | [`Project`](https://3d-aigc.github.io/OpenGaussian)
+
 * **⭐LangSplat: 3D Language Gaussian Splatting** <br>
 `CVPR 2024` | [`Paper`](https://arxiv.org/abs/2312.16084) | [`Project`](https://langsplat.github.io/)
 
