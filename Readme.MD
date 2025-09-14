@@ -4,7 +4,7 @@
 ## 📖 Papers
 ### 🟦 3D
 * **⭐SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining** <br>
-`CVPR 2024` | [`Paper`](https://arxiv.org/abs/2503.18052) | [`Project`](https://github.com/unique1i/SceneSplat)
+`ICCV 2025 (Oral)` | [`Paper`](https://arxiv.org/abs/2503.18052) | [`Project`](https://github.com/unique1i/SceneSplat)
 
 * **FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally** <br>
 `CVPR 2024` | [`Paper`](https://arxiv.org/abs/2409.08270) | [`Project`](https://github.com/florinshen/FlashSplat)
