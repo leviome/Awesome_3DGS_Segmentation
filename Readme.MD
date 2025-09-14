@@ -6,6 +6,9 @@
 * **⭐SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining** <br>
 `ICCV 2025 (Oral)` | [`Paper`](https://arxiv.org/abs/2503.18052) | [`Project`](https://github.com/unique1i/SceneSplat)
 
+* **COB-GS: Clear Object Boundaries in 3DGS Segmentation Based on Boundary-Adaptive Gaussian Splitting** <br>
+`CVPR 2024` | [`Paper`](https://arxiv.org/abs/2503.19443) | [`Project`](https://github.com/ZestfulJX/COB-GS)
+
 * **FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally** <br>
 `CVPR 2024` | [`Paper`](https://arxiv.org/abs/2409.08270) | [`Project`](https://github.com/florinshen/FlashSplat)
 
