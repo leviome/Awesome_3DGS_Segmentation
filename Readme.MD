@@ -8,6 +8,9 @@
 
 * **ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes** <br>
 `ICCV 2022 (Oral)` | [`Paper`](https://arxiv.org/abs/2308.11417) | [`Project`](https://github.com/scannetpp/scannetpp)
+
+* **ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes** <br>
+`CVPR 2017` | [`Paper`](https://arxiv.org/abs/1702.04405) | [`Project`](http://www.scan-net.org/)
 ---
 
 ### 🟦 3D
