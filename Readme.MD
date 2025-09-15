@@ -63,6 +63,9 @@
 ### 🟩 4D
 * **4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models** <br>
 `CVPR 2025` | [`Paper`](https://arxiv.org/abs/2503.10437) | [`Project`](https://4d-langsplat.github.io/)
+
+* **4-LEGS: 4D Language Embedded Gaussian Splatting** <br>
+`Eurographics 2025` | [`Paper`](https://arxiv.org/abs/2410.10719) | [`Project`](https://tau-vailab.github.io/4-LEGS/)
 ---
 
 ### 🟥 Non-Gaussian 3D segmentation
