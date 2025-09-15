@@ -2,6 +2,13 @@
 ---
 
 ## 📖 Papers
+### 🟨 Dataset
+* **Mosaic3D: Foundation Dataset and Model for Open-Vocabulary 3D Segmentation** <br>
+`Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2502.02548) | [`Project`](https://nvlabs.github.io/Mosaic3D/)
+
+* **ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes** <br>
+`ICCV 2022 (Oral)` | [`Paper`](https://arxiv.org/abs/2308.11417) | [`Project`](https://github.com/scannetpp/scannetpp)
+
 ### 🟦 3D
 * **⭐SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining** <br>
 `ICCV 2025 (Oral)` | [`Paper`](https://arxiv.org/abs/2503.18052) | [`Project`](https://github.com/unique1i/SceneSplat)
