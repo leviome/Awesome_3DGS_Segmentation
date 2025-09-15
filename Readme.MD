@@ -63,3 +63,12 @@
 ### 🟩 4D
 * **4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models** <br>
 `CVPR 2025` | [`Paper`](https://arxiv.org/abs/2503.10437) | [`Project`](https://4d-langsplat.github.io/)
+---
+
+### 🟥 Non-Gaussian 3D segmentation
+* **lerf: language embedded radiance fields.** <br>
+`ICCV 2023 (Oral)` | [`Paper`](https://arxiv.org/abs/2303.09553) | [`Project`](https://lerf.io/)
+
+* **OnlineAnySeg: Online Zero-Shot 3D Segmentation by Visual Foundation Model Guided 2D Mask Merging** <br>
+`CVPR 2025` | [`Paper`](https://arxiv.org/abs/2503.01309) | [`Project`](https://yjtang249.github.io/OnlineAnySeg)
+
