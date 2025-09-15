@@ -72,3 +72,6 @@
 * **OnlineAnySeg: Online Zero-Shot 3D Segmentation by Visual Foundation Model Guided 2D Mask Merging** <br>
 `CVPR 2025` | [`Paper`](https://arxiv.org/abs/2503.01309) | [`Project`](https://yjtang249.github.io/OnlineAnySeg)
 
+* **SAI3D: Segment Any Instance in 3D Scenes** <br>
+`CVPR 2024` | [`Paper`](https://arxiv.org/abs/2312.11557) | [`Project`](https://yd-yin.github.io/SAI3D)
+
