@@ -36,6 +36,9 @@
 * **SAGD: Boundary-Enhanced Segment Anything in 3D Gaussian via Gaussian Decomposition** <br>
 `Arxiv 2024` | [`Paper`](https://arxiv.org/abs/2401.17857) | [`Project`](https://github.com/XuHu0529/SAGS)
 
+* **CLIP-GS: CLIP-Informed Gaussian Splatting for Real-time and View-consistent 3D Semantic Understanding** <br>
+`Arxiv 2024` | [`Paper`](https://arxiv.org/abs/2404.14249) | [`Project`](https://gbliao.github.io/CLIP-GS.github.io/)
+
 * **Click-Gaussian: Interactive Segmentation to Any 3D Gaussians** <br>
 `ECCV 2024` | [`Paper`](https://arxiv.org/abs/2407.11793) | [`Project`](https://seokhunchoi.github.io/Click-Gaussian)
 ---
