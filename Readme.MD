@@ -78,6 +78,9 @@
 * **SAI3D: Segment Any Instance in 3D Scenes** <br>
 `CVPR 2024` | [`Paper`](https://arxiv.org/abs/2312.11557) | [`Project`](https://yd-yin.github.io/SAI3D)
 
+* **SA3D: Segment Anything in 3D with Radiance Fields** <br>
+`NIPS 2023` | [`Paper`](https://arxiv.org/abs/2304.12308) | [`Project`](https://github.com/Jumpat/SegmentAnythingin3D)
+
 * **SAM3D: Segment Anything in 3D Scenes** <br>
 `ICCV 2023 Workshop` | [`Paper`](https://arxiv.org/abs/2306.03908) | [`Project`](https://github.com/Pointcept/SegmentAnything3D)
 
