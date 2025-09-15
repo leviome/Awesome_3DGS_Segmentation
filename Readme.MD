@@ -69,7 +69,7 @@
 ---
 
 ### 🟥 Non-Gaussian 3D segmentation
-* **lerf: language embedded radiance fields.** <br>
+* **LERF: Language Embedded Radiance Fields.** <br>
 `ICCV 2023 (Oral)` | [`Paper`](https://arxiv.org/abs/2303.09553) | [`Project`](https://lerf.io/)
 
 * **OnlineAnySeg: Online Zero-Shot 3D Segmentation by Visual Foundation Model Guided 2D Mask Merging** <br>
