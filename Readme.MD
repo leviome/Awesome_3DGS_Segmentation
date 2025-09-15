@@ -81,3 +81,6 @@
 * **SAM3D: Segment Anything in 3D Scenes** <br>
 `ICCV 2023 Workshop` | [`Paper`](https://arxiv.org/abs/2306.03908) | [`Project`](https://github.com/Pointcept/SegmentAnything3D)
 
+* **Mask3D: Mask Transformer for 3D Semantic Instance Segmentation** <br>
+`ICRA 2023` | [`Paper`](https://arxiv.org/abs/2210.03105) | [`Project`](https://github.com/JonasSchult/Mask3D)
+
