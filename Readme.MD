@@ -8,6 +8,7 @@
 
 * **ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes** <br>
 `ICCV 2022 (Oral)` | [`Paper`](https://arxiv.org/abs/2308.11417) | [`Project`](https://github.com/scannetpp/scannetpp)
+---
 
 ### 🟦 3D
 * **⭐SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining** <br>
