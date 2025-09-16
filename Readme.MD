@@ -77,7 +77,7 @@
 * **COB-GS: Clear Object Boundaries in 3DGS Segmentation Based on Boundary-Adaptive Gaussian Splitting** <br>
 `CVPR 2025` | [`Paper`](https://arxiv.org/abs/2503.19443) | [`Project`](https://github.com/ZestfulJX/COB-GS)
 
-* **Rethinking end-to-end 2d to 3d scene segmentation in gaussian splatting** <br>
+* **Unified-Lift: Rethinking end-to-end 2d to 3d scene segmentation in gaussian splatting** <br>
 `CVPR 2025` | [`Paper`](https://arxiv.org/abs/2503.14029) | [`Project`](https://github.com/Runsong123/Unified-Lift)
 
 * **OpenSplat3D: Open-Vocabulary 3D Instance Segmentation using Gaussian Splatting** <br>
