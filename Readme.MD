@@ -41,6 +41,9 @@
 * **ReferSplat: Referring Segmentation in 3D Gaussian Splatting** <br>
 `Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2508.08252) | [`Project`](https://github.com/heshuting555/ReferSplat)
 
+* **Segment then Splat: A Unified Approach for 3D Open-Vocabulary Segmentation based on Gaussian Splatting** <br>
+`Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2503.22204) | [`Project`](https://vulab-ai.github.io/Segment-then-Splat/)
+
 * **FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally** <br>
 `CVPR 2024` | [`Paper`](https://arxiv.org/abs/2409.08270) | [`Project`](https://github.com/florinshen/FlashSplat)
 
