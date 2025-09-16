@@ -26,6 +26,9 @@
 * **ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2507.15454) | [`Project`](https://ruijiezhu94.github.io/ObjectGS_page)
 
+* **AG2aussian: Anchor-Graph Structured Gaussian Splatting for Instance-Level 3D Scene Understanding and Editing** <br>
+`ICCV 2025` | [`Paper`](https://arxiv.org/abs/2508.01740) | [Project]
+
 * **CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2505.20469) | [`Project`](https://epsilontl.github.io/CCL-LGS/)
 
