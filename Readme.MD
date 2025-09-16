@@ -20,6 +20,9 @@
 * **⭐SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining** <br>
 `ICCV 2025 (Oral)` | [`Paper`](https://arxiv.org/abs/2503.18052) | [`Project`](https://github.com/unique1i/SceneSplat)
 
+* **SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting** <br>
+`Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2506.08710) | [`Project`](https://github.com/unique1i/GaussianWorld_Benchmark)
+
 * **ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2507.15454) | [`Project`](https://ruijiezhu94.github.io/ObjectGS_page)
 
@@ -29,8 +32,8 @@
 * **SplatTalk: 3D VQA with Gaussian Splatting** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2503.06271) | [`Project`](https://splat-talk.github.io/)
 
-* **SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting** <br>
-`Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2506.08710) | [`Project`](https://github.com/unique1i/GaussianWorld_Benchmark)
+* **Identity-aware Language Gaussian Splatting for Open-vocabulary 3D Semantic Segmentation** <br>
+`ICCV 2025` | [`Paper`] | [`Project`](https://github.com/DCVL-3D/ILGS_release)
 
 * **ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning** <br>
 `CVPR 2025` | [`Paper`](https://arxiv.org/abs/2503.23297) | [`Project`](https://zhenyangliu.github.io/ReasonGrounder/)
