@@ -23,6 +23,9 @@
 * **SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting** <br>
 `Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2506.08710) | [`Project`](https://github.com/unique1i/GaussianWorld_Benchmark)
 
+* **ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning** <br>
+`CVPR 2025` | [`Paper`](https://arxiv.org/abs/2503.23297) | [`Project`](https://zhenyangliu.github.io/ReasonGrounder/)
+
 * **Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration** <br>
 `CVPR 2025 (Highlight)` | [`Paper`](https://arxiv.org/abs/2502.16652) | [`Project`](https://drsplat.github.io/)
 
