@@ -93,6 +93,9 @@
 * **LERF: Language Embedded Radiance Fields.** <br>
 `ICCV 2023 (Oral)` | [`Paper`](https://arxiv.org/abs/2303.09553) | [`Project`](https://lerf.io/)
 
+* **EmbodiedSAM: Online Segment Any 3D Thing in Real Time** <br>
+`ICLR 2025 (Oral)` | [`Paper`](https://arxiv.org/abs/2408.11811) | [`Project`](https://xuxw98.github.io/ESAM/)
+
 * **OnlineAnySeg: Online Zero-Shot 3D Segmentation by Visual Foundation Model Guided 2D Mask Merging** <br>
 `CVPR 2025` | [`Paper`](https://arxiv.org/abs/2503.01309) | [`Project`](https://yjtang249.github.io/OnlineAnySeg)
 
