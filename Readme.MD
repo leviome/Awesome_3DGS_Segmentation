@@ -23,6 +23,9 @@
 * **ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2507.15454) | [`Project`](https://ruijiezhu94.github.io/ObjectGS_page)
 
+* **Trace3D: Consistent Segmentation Lifting via Gaussian Instance Tracing** <br>
+`ICCV 2025` | [`Paper`](https://arxiv.org/abs/2508.03227) | [Project]
+
 * **SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting** <br>
 `Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2506.08710) | [`Project`](https://github.com/unique1i/GaussianWorld_Benchmark)
 
@@ -45,7 +48,7 @@
 `CVPR 2025` | [`Paper`](https://arxiv.org/abs/2503.14029) | [`Project`](https://github.com/Runsong123/Unified-Lift)
 
 * **OpenSplat3D: Open-Vocabulary 3D Instance Segmentation using Gaussian Splatting** <br>
-`CVPR 2025 Workshop` | [`Paper`](https://arxiv.org/abs/2506.07697) | [`Project`]()
+`CVPR 2025 Workshop` | [`Paper`](https://arxiv.org/abs/2506.07697) | [Project]
 
 * **VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding** <br>
 `Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2506.22799) | [`Project`](https://sy-ja.github.io/votesplat/)
