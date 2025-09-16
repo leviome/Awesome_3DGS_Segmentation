@@ -5,6 +5,7 @@
 ### 🟧 Survey
 * **A Survey on 3D Gaussian Splatting Applications: Segmentation, Editing, and Generation** <br>
 `Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2508.09977) | [`Project`](https://github.com/heshuting555/Awesome-3DGS-Applications)
+---
 
 
 ### 🟨 Dataset
