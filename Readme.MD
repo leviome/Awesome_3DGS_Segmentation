@@ -135,6 +135,9 @@
 
 * **4-LEGS: 4D Language Embedded Gaussian Splatting** <br>
 `Eurographics 2025` | [`Paper`](https://arxiv.org/abs/2410.10719) | [`Project`](https://tau-vailab.github.io/4-LEGS/)
+
+* **Segment Any 4D Gaussians** <br>
+`Arxiv 2024` | [`Paper`](https://arxiv.org/abs/2407.04504) | [`Project`](https://jsxzs.github.io/sa4d/)
 ---
 
 ### 🟥 Non-Gaussian 3D segmentation
