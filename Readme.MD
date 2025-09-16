@@ -7,7 +7,7 @@
 `Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2502.02548) | [`Project`](https://nvlabs.github.io/Mosaic3D/)
 
 * **ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining** <br>
-`Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2408.10906) | [`Project`](https://unique1i.github.io/ShapeSplat_webpage/)
+`3DV 2025` | [`Paper`](https://arxiv.org/abs/2408.10906) | [`Project`](https://unique1i.github.io/ShapeSplat_webpage/)
 
 * **ScanNet++: A High-Fidelity Dataset of 3D Indoor Scenes** <br>
 `ICCV 2022 (Oral)` | [`Paper`](https://arxiv.org/abs/2308.11417) | [`Project`](https://github.com/scannetpp/scannetpp)
