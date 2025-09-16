@@ -20,6 +20,9 @@
 * **⭐SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining** <br>
 `ICCV 2025 (Oral)` | [`Paper`](https://arxiv.org/abs/2503.18052) | [`Project`](https://github.com/unique1i/SceneSplat)
 
+* **SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting** <br>
+`Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2506.08710) | [`Project`](https://github.com/unique1i/GaussianWorld_Benchmark)
+
 * **Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration** <br>
 `CVPR 2025 (Highlight)` | [`Paper`](https://arxiv.org/abs/2502.16652) | [`Project`](https://drsplat.github.io/)
 
