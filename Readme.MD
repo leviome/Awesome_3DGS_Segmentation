@@ -26,6 +26,9 @@
 * **ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2507.15454) | [`Project`](https://ruijiezhu94.github.io/ObjectGS_page)
 
+* **CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting** <br>
+`ICCV 2025` | [`Paper`](https://arxiv.org/abs/2505.20469) | [`Project`](https://epsilontl.github.io/CCL-LGS/)
+
 * **LUDVIG: Learning-Free Uplifting of 2D Visual Features to Gaussian Splatting Scenes** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2410.14462) | [`Project`](https://juliettemarrie.github.io/ludvig)
 
