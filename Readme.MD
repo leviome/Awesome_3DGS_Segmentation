@@ -26,6 +26,9 @@
 * **Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration** <br>
 `CVPR 2025 (Highlight)` | [`Paper`](https://arxiv.org/abs/2502.16652) | [`Project`](https://drsplat.github.io/)
 
+* **PanoGS: Gaussian-based Panoptic Segmentation for 3D Open Vocabulary Scene Understanding** <br>
+`CVPR 2025` | [`Paper`](https://arxiv.org/abs/2503.18107) | [`Project`](https://zju3dv.github.io/panogs/)
+
 * **InstanceGaussian: Appearance-Semantic Joint Gaussian Representation for 3D Instance-Level Perception** <br>
 `CVPR 2025` | [`Paper`](https://arxiv.org/abs/2411.19235) | [`Project`](https://lhj-git.github.io/InstanceGaussian/)
 
