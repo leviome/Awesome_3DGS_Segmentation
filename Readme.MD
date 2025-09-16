@@ -38,6 +38,9 @@
 * **OpenSplat3D: Open-Vocabulary 3D Instance Segmentation using Gaussian Splatting** <br>
 `CVPR 2025 Workshop` | [`Paper`](https://arxiv.org/abs/2506.07697) | [`Project`]()
 
+* **VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding** <br>
+`Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2506.22799) | [`Project`](https://sy-ja.github.io/votesplat/)
+
 * **ReferSplat: Referring Segmentation in 3D Gaussian Splatting** <br>
 `Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2508.08252) | [`Project`](https://github.com/heshuting555/ReferSplat)
 
