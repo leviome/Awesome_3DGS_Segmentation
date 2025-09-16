@@ -20,6 +20,9 @@
 * **⭐SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining** <br>
 `ICCV 2025 (Oral)` | [`Paper`](https://arxiv.org/abs/2503.18052) | [`Project`](https://github.com/unique1i/SceneSplat)
 
+* **ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting** <br>
+`ICCV 2025` | [`Paper`](https://arxiv.org/abs/2507.15454) | [`Project`](https://ruijiezhu94.github.io/ObjectGS_page)
+
 * **SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting** <br>
 `Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2506.08710) | [`Project`](https://github.com/unique1i/GaussianWorld_Benchmark)
 
