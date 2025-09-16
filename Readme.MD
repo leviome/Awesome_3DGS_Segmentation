@@ -33,7 +33,7 @@
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2503.06271) | [`Project`](https://splat-talk.github.io/)
 
 * **Identity-aware Language Gaussian Splatting for Open-vocabulary 3D Semantic Segmentation** <br>
-`ICCV 2025` | [`Paper`] | [`Project`](https://github.com/DCVL-3D/ILGS_release)
+`ICCV 2025` | [Paper] | [`Project`](https://github.com/DCVL-3D/ILGS_release)
 
 * **ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning** <br>
 `CVPR 2025` | [`Paper`](https://arxiv.org/abs/2503.23297) | [`Project`](https://zhenyangliu.github.io/ReasonGrounder/)
