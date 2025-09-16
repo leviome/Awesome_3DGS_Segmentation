@@ -56,6 +56,9 @@
 * **VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2506.22799) | [`Project`](https://sy-ja.github.io/votesplat/)
 
+* **SLGaussian: Fast Language Gaussian Splatting in Sparse Views** <br>
+`MM 2025` | [`Paper`](https://arxiv.org/abs/2412.08331) | [`Project`](https://chenkangjie1123.github.io/SLGaussian.github.io/)
+
 * **3D Vision-Language Gaussian Splatting** <br>
 `ICLR 2025` | [`Paper`](https://arxiv.org/abs/2410.07577) | [Project]
 
