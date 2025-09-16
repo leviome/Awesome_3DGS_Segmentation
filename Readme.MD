@@ -38,6 +38,9 @@
 * **CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2505.20469) | [`Project`](https://epsilontl.github.io/CCL-LGS/)
 
+* **LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion** <br>
+`ICCV 2025` | [`Paper`](https://arxiv.org/abs/2507.02813) | [`Project`](https://liuff19.github.io/LangScene-X)
+
 * **LUDVIG: Learning-Free Uplifting of 2D Visual Features to Gaussian Splatting Scenes** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2410.14462) | [`Project`](https://juliettemarrie.github.io/ludvig)
 
