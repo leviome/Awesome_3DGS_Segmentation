@@ -23,6 +23,9 @@
 * **Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration** <br>
 `CVPR 2025 (Highlight)` | [`Paper`](https://arxiv.org/abs/2502.16652) | [`Project`](https://drsplat.github.io/)
 
+* **InstanceGaussian: Appearance-Semantic Joint Gaussian Representation for 3D Instance-Level Perception** <br>
+`CVPR 2025` | [`Paper`](https://arxiv.org/abs/2411.19235) | [`Project`](https://lhj-git.github.io/InstanceGaussian/)
+
 * **COB-GS: Clear Object Boundaries in 3DGS Segmentation Based on Boundary-Adaptive Gaussian Splitting** <br>
 `CVPR 2025` | [`Paper`](https://arxiv.org/abs/2503.19443) | [`Project`](https://github.com/ZestfulJX/COB-GS)
 
