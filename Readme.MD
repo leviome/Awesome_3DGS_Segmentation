@@ -32,6 +32,9 @@
 * **Rethinking end-to-end 2d to 3d scene segmentation in gaussian splatting** <br>
 `CVPR 2025` | [`Paper`](https://arxiv.org/abs/2503.14029) | [`Project`](https://github.com/Runsong123/Unified-Lift)
 
+* **ReferSplat: Referring Segmentation in 3D Gaussian Splatting** <br>
+`Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2508.08252) | [`Project`](https://github.com/heshuting555/ReferSplat)
+
 * **FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally** <br>
 `CVPR 2024` | [`Paper`](https://arxiv.org/abs/2409.08270) | [`Project`](https://github.com/florinshen/FlashSplat)
 
