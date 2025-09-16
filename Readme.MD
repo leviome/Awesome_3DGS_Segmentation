@@ -26,6 +26,9 @@
 * **Trace3D: Consistent Segmentation Lifting via Gaussian Instance Tracing** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2508.03227) | [Project]
 
+* **SplatTalk: 3D VQA with Gaussian Splatting** <br>
+`ICCV 2025` | [`Paper`](https://arxiv.org/abs/2503.06271) | [`Project`](https://splat-talk.github.io/)
+
 * **SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting** <br>
 `Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2506.08710) | [`Project`](https://github.com/unique1i/GaussianWorld_Benchmark)
 
