@@ -159,6 +159,9 @@
 * **SA3D: Segment Anything in 3D with Radiance Fields** <br>
 `NIPS 2023` | [`Paper`](https://arxiv.org/abs/2304.12308) | [`Project`](https://github.com/Jumpat/SegmentAnythingin3D)
 
+* **3D-OVS: Weakly Supervised 3D Open-vocabulary Segmentation** <br>
+`NIPS 2023` | [`Paper`](https://arxiv.org/abs/2305.14093) | [`Project`](https://github.com/Kunhao-Liu/3D-OVS)
+
 * **SAM3D: Segment Anything in 3D Scenes** <br>
 `ICCV 2023 Workshop` | [`Paper`](https://arxiv.org/abs/2306.03908) | [`Project`](https://github.com/Pointcept/SegmentAnything3D)
 
