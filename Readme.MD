@@ -23,6 +23,9 @@
 ---
 
 ### 🟦 3D
+* **Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-View Images** <br>
+`Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2508.03643) | [`Project`](https://github.com/HorizonRobotics/Uni3R)
+
 * **⭐SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining** <br>
 `ICCV 2025 (Oral)` | [`Paper`](https://arxiv.org/abs/2503.18052) | [`Project`](https://github.com/unique1i/SceneSplat)
 
