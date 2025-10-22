@@ -23,7 +23,7 @@
 ---
 
 ### 🟦 3D
-* **Towards Complete 3D Instance Decomposition and Reconstruction from Cluttered Scenes** <br>
+* **InstaScene: Towards Complete 3D Instance Decomposition and Reconstruction from Cluttered Scenes** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2507.08416) | [`Project`](https://zju3dv.github.io/instascene/)
 
 * **Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-View Images** <br>
