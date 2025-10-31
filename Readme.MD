@@ -71,6 +71,9 @@
 * **3D Vision-Language Gaussian Splatting** <br>
 `ICLR 2025` | [`Paper`](https://arxiv.org/abs/2410.07577) | [Project]
 
+* **iSegMan: Interactive Segment-and-Manipulate 3D Gaussians** <br>
+`CVPR 2025` | [`Paper`](https://github.com/Zhao-Yian/iSegMan/blob/master) | [`Project`](https://zhao-yian.github.io/iSegMan)
+
 * **ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning** <br>
 `CVPR 2025` | [`Paper`](https://arxiv.org/abs/2503.23297) | [`Project`](https://zhenyangliu.github.io/ReasonGrounder/)
 
