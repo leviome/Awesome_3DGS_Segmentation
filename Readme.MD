@@ -23,6 +23,9 @@
 ---
 
 ### 🟦 3D
+* **LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS** <br>
+`NIPS 2025` | [`Paper`](https://arxiv.org/abs/2507.07136) | [`Project`](https://langsplat-v2.github.io/)
+
 * **SIU3R: Simultaneous Scene Understanding and 3D Reconstruction Beyond Feature Alignment** <br>
 `NIPS 2025 (highlight)` | [`Paper`](https://arxiv.org/abs/2507.02705) | [`Project`](https://insomniaaac.github.io/siu3r/)
 
