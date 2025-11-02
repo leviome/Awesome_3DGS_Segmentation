@@ -29,6 +29,9 @@
 * **SIU3R: Simultaneous Scene Understanding and 3D Reconstruction Beyond Feature Alignment** <br>
 `NIPS 2025 (highlight)` | [`Paper`](https://arxiv.org/abs/2507.02705) | [`Project`](https://insomniaaac.github.io/siu3r/)
 
+* **AG2aussian: Anchor-Graph Structured Gaussian Splatting for Instance-Level 3D Scene Understanding and Editing** <br>
+`ICCV 2025` | [`Paper`](https://arxiv.org/abs/2508.01740) | [`Project`](https://github.com/DyllanElliia/AGGaussian)
+
 * **InstaScene: Towards Complete 3D Instance Decomposition and Reconstruction from Cluttered Scenes** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2507.08416) | [`Project`](https://zju3dv.github.io/instascene/)
 
