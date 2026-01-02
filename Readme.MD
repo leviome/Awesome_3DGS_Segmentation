@@ -32,6 +32,9 @@
 * **InstaScene: Towards Complete 3D Instance Decomposition and Reconstruction from Cluttered Scenes** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2507.08416) | [`Project`](https://zju3dv.github.io/instascene/)
 
+* **Tackling View-Dependent Semantics in 3D Language Gaussian Splatting** <br>
+`ICML 2025` | [`Paper`](https://openreview.net/forum?id=oaMDLJezM4) | [`Project`](https://github.com/SJTU-DeepVisionLab/LaGa)
+
 * **Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-View Images** <br>
 `Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2508.03643) | [`Project`](https://github.com/HorizonRobotics/Uni3R)
 
@@ -182,4 +185,7 @@
 
 * **Mask3D: Mask Transformer for 3D Semantic Instance Segmentation** <br>
 `ICRA 2023` | [`Paper`](https://arxiv.org/abs/2210.03105) | [`Project`](https://github.com/JonasSchult/Mask3D)
+
+* **SegDINO3D: 3D Instance Segmentation Empowered by Both Image-Level and Object-Level 2D Features** <br>
+`Arxiv` | [`Paper`](https://arxiv.org/abs/2509.16098) | [`Project`](https://github.com/IDEA-Research/SegDINO3D)
 
