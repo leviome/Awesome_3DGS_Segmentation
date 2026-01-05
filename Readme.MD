@@ -159,6 +159,9 @@
 ---
 
 ### 🟥 Non-Gaussian 3D segmentation
+* **Online Segment Any 3D Thing as Instance Tracking.** <br>
+`NeurIPS 2025` | [`Paper`](https://arxiv.org/abs/2512.07599) | [`Project`](https://github.com/AutoLab-SAI-SJTU/AutoSeg3D)
+
 * **LERF: Language Embedded Radiance Fields.** <br>
 `ICCV 2023 (Oral)` | [`Paper`](https://arxiv.org/abs/2303.09553) | [`Project`](https://lerf.io/)
 
