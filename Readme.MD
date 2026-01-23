@@ -24,7 +24,7 @@
 
 ### 🟦 3D
 * **Trace3D: Consistent Segmentation Lifting via Gaussian Instance Tracing** <br>
-`NIPS 2025` | [`Paper`](https://arxiv.org/abs/2508.03227) | [`Project`](https://trace-3d.github.io/)
+`ICCV 2025` | [`Paper`](https://arxiv.org/abs/2508.03227) | [`Project`](https://trace-3d.github.io/)
 
 * **LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS** <br>
 `NIPS 2025` | [`Paper`](https://arxiv.org/abs/2507.07136) | [`Project`](https://langsplat-v2.github.io/)
