@@ -105,7 +105,7 @@
 `CVPR 2025 Workshop` | [`Paper`](https://arxiv.org/abs/2506.07697) | [Project]
 
 * **ReferSplat: Referring Segmentation in 3D Gaussian Splatting** <br>
-`Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2508.08252) | [`Project`](https://github.com/heshuting555/ReferSplat)
+`ICML 2025` | [`Paper`](https://arxiv.org/abs/2508.08252) | [`Project`](https://github.com/heshuting555/ReferSplat)
 
 * **Segment then Splat: A Unified Approach for 3D Open-Vocabulary Segmentation based on Gaussian Splatting** <br>
 `Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2503.22204) | [`Project`](https://vulab-ai.github.io/Segment-then-Splat/)
